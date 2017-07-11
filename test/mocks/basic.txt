@@ -1,0 +1,5 @@
+add route London Dublin 100 150
+add aircraft Gulfstream-G550 8
+add passenger airline Trevor
+add passenger general Mark
+add passenger loyalty Joan 100 FALSE TRUE

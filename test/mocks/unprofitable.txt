@@ -1,0 +1,8 @@
+add route London Dublin 100 150
+add aircraft Gulfstream-G550 12
+add passenger general Mark
+add passenger general Tom
+add passenger general James
+add passenger airline Jack
+add passenger airline Jane
+add passenger airline Steve

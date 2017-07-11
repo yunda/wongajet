@@ -1,0 +1,10 @@
+add route London Dublin 100 150
+add aircraft Gulfstream-G550 8
+add passenger general Mark
+add passenger general Tom
+add passenger general James
+add passenger airline Trevor
+add passenger loyalty Alan 50 FALSE FALSE
+add passenger loyalty Susie 40 TRUE FALSE
+add passenger loyalty Joan 100 FALSE TRUE
+add passenger general Jack
