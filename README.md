@@ -1,6 +1,6 @@
 # Wonga Jet Reports Generator
 
-A simple program that produces flight summary reports based on flight, route and passenger data. Check the task description [here](https://github.com/yunda/wongajet/blob/master/task.md)
+A simple program that produces flight summary reports based on flight, route and passenger data. Check the task description [here](https://github.com/yunda/wongajet/blob/master/task.md).
 
 ### How to install
 
